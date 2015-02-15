@@ -9,11 +9,14 @@ If you want to fast and painless create a **multilingual app that uses angular**
 
 ## What's in here
 
+* [HTML5Boilerplate](https://github.com/h5bp/html5-boilerplate)
 * Check out [bower.json](https://github.com/adelivuk/angie/blob/master/bower.json)
 
 ## [Demo](http://antonio-delivuk.from.hr/angie)
 
 ## Usage
+
+**Note:** I'm using [SASS](http://sass-lang.com/), but you don't have to, just make changes in [css/main.css](https://github.com/adelivuk/angie/blob/master/css/main.css) file
 
 #### Change/add language
 Add the `locales/locale` file, like `locale-[LANG_CODE].json` and add the button in [index.html](https://github.com/adelivuk/angie/blob/master/index.html#LC23)

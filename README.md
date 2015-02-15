@@ -4,7 +4,7 @@ If you want to fast and painless create a **multilingual app that uses angular**
 
 ## Quick start
 
-1. [Dowload it](http://antonio-delivuk.from.hr/angie/angie.rar)
+1. [Dowload it](http://antonio-delivuk.from.hr/angie/angie_v0.0.1.rar)
 2. Just run `bower install` and you're good to go
 
 ## What's in here

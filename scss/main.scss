@@ -1,0 +1,25 @@
+@import '../bower_components/normalize.css/normalize.css';
+@import '../bower_components/fontawesome/scss/font-awesome.scss';
+@import 'mixins';
+@import 'html5b';
+@import 'animations';
+@import 'modal';
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+#lang-menu{
+
+  >li>span{
+    cursor: pointer;
+
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}

@@ -1,0 +1,27 @@
+.modal{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.8);
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+
+  >div{
+    display: table;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+
+    >div{
+      display: table-cell;
+      text-align: center;
+      width: 100%;
+      height: 100%;
+      vertical-align: middle;
+      color: #fff;
+    }
+  }
+}

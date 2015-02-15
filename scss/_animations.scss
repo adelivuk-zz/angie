@@ -1,0 +1,18 @@
+.fadein.ng-enter {
+  -webkit-transition: 1s;
+  transition: 1s;
+  opacity: 0;
+}
+
+.fadein.ng-enter.ng-enter-active {
+  opacity: 1;
+}
+
+.inline-fadein.ng-hide-remove {
+  @include transition(all, 500ms, ease);
+  opacity: 0;
+}
+
+.inline-fadein.ng-hide-remove.ng-hide-remove-active {
+  opacity: 1;
+}

@@ -16,13 +16,13 @@ If you want to fast and painless create a **multilingual app that uses angular**
 ## Usage
 
 #### Change/add language
-Add the `locales/locale` file, like `locale-[LANG_CODE](http://www.science.co.il/Language/Locale-codes.asp).json` and add the button in [index.html](https://github.com/adelivuk/angie/blob/master/index.html)
+Add the `locales/locale` file, like `locale-[LANG_CODE].json` and add the button in [index.html](https://github.com/adelivuk/angie/blob/master/index.html#LC23)
 
-#### Change animation bewteen `views` or `modal` style
+#### Change animation between `views` or `modal` style
 See the [scss folder](https://github.com/adelivuk/angie/tree/master/scss)
 
 #### Change the `loading icon`
 See the [loadingIcon directive](https://github.com/adelivuk/angie/blob/master/js/app.js#L49)
 
-
-
+## Contributing
+Feel free to contribute

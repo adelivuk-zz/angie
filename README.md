@@ -41,9 +41,11 @@ And in `index.html` add the `button`
 ```
 <ul data-ng-controller="translateController" id="lang-menu">
   <li><span data-ng-click="changeLanguage('it')">Italian</span></li>
-  <!-- other buttons-->
+  <!-- other buttons -->
 </ul>
 ```
+
+And when _italian_ is selected, `<p>{{"WELCOME" | translate}}</<p>` will become `<p>benvenuto</p>`
 
 #### Change animation between `views` or `modal` style
 See the [scss folder](https://github.com/adelivuk/angie/tree/master/scss)

@@ -12,7 +12,8 @@ If you want to fast and painless create a **multilingual app that uses angular**
 * [HTML5Boilerplate](https://github.com/h5bp/html5-boilerplate)
 * Check out [bower.json](https://github.com/adelivuk/angie/blob/master/bower.json)
 
-## [Demo](http://antonio-delivuk.from.hr/angie)
+## [Plain demo](http://antonio-delivuk.from.hr/angie)
+## [Bootstrap cover theme demo](http://antonio-delivuk.from.hr/angie/bootstrap)
 
 ## Usage
 
